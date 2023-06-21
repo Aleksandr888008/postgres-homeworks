@@ -24,3 +24,7 @@ CREATE TABLE orders
     order_date date,
     ship_city varchar(100) NOT NULL
 )
+
+SELECT * FROM employees
+SELECT * FROM customers
+SELECT * FROM orders
